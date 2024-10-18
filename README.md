@@ -43,11 +43,17 @@
 
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=timz-dev&custom_title=Stats&show_icons=true&count_private=true&hide_border=true&theme=radical" align="left" style="width: 100%" />
+![timz-dev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=timz-dev&theme=radical&show_icons=true&hide_border=false&layout=compact)
+
+</td>
+
+<table><tr><td valign="top" width="50%">
+
+![timz-dev's Stats](https://github-readme-stats.vercel.app/api?username=timz-dev&theme=radical&show_icons=true&hide_border=false&count_private=true)
 
 </td><td valign="top" width="50%">
 
-<img src="https://streak-stats.demolab.com/?user=timz-dev&theme=radical&hide_border=true" align="left" style="width: 100%" />
+![timz-dev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=timz-dev&theme=radical&hide_border=false)
 
 </td></tr></table>
 
