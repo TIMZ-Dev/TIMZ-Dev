@@ -13,6 +13,7 @@
 ---
 
 <img align=right src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXBjdm92eDd0NmNmbjAwMHp4eGJ6NXo2NGNlNG9saGloNDh3ajB6ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif" alt="Developer GIF" height=200px width=400px >
+
 <br>
 
 - 🌱 I’m currently mastering <strong>OOP with Java</strong> and exploring <strong>React</strong>.</li>
@@ -20,6 +21,7 @@
 - 💬 Ask me anything about <strong>Web Development | OOC</strong>.
 - 📧 Reach me at <a href="mailto:timotheecolins@gmail.com"><strong>timotheecolins@gmail.com</strong></a>.
 - ⚡ Fun fact: Call me <strong>TIMZ</strong> for short.
+<br>
 <br>
 
 ---
